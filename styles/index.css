@@ -1,0 +1,44 @@
+body {
+  width: 600px;
+  padding: 25px;
+}
+
+header {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  color: white;
+  background-color: #4C2A85;
+  border-radius: 25px;
+}
+
+h2 {
+  margin: 15px 25px;
+}
+
+#personal {
+  height: 125px;
+}
+
+main {
+  padding: 20px;
+  margin: 15px 25px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+footer {
+  height: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  color: white;
+  border-radius: 25px;
+  background-color: #4C2A85;
+}
+
+#last-mod {
+  color: yellow;
+}
