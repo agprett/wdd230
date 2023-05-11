@@ -40,6 +40,10 @@ footer {
   background-color: #4C2A85;
 }
 
+p {
+  margin: 0;
+}
+
 #last-mod {
   color: yellow;
 }
